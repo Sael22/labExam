@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sayil\\OneDrive\\سطح المكتب\\Programming\\Game Devolpment\\labExam\\labExam.csproj",
+      "projectUniqueName": "C:\\Users\\sayil\\OneDrive\\المستندات\\GitHub\\labExam\\labExam.csproj",
       "projectName": "labExam",
-      "projectPath": "C:\\Users\\sayil\\OneDrive\\سطح المكتب\\Programming\\Game Devolpment\\labExam\\labExam.csproj",
+      "projectPath": "C:\\Users\\sayil\\OneDrive\\المستندات\\GitHub\\labExam\\labExam.csproj",
       "packagesPath": "C:\\Users\\sayil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sayil\\OneDrive\\سطح المكتب\\Programming\\Game Devolpment\\labExam\\obj\\",
+      "outputPath": "C:\\Users\\sayil\\OneDrive\\المستندات\\GitHub\\labExam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sayil\\AppData\\Roaming\\NuGet\\NuGet.Config"
