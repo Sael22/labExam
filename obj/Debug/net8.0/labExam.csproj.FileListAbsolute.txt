@@ -1,0 +1,14 @@
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\bin\Debug\net8.0\labExam.exe
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\bin\Debug\net8.0\labExam.deps.json
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\bin\Debug\net8.0\labExam.runtimeconfig.json
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\bin\Debug\net8.0\labExam.dll
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\bin\Debug\net8.0\labExam.pdb
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\obj\Debug\net8.0\labExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\obj\Debug\net8.0\labExam.AssemblyInfoInputs.cache
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\obj\Debug\net8.0\labExam.AssemblyInfo.cs
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\obj\Debug\net8.0\labExam.csproj.CoreCompileInputs.cache
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\obj\Debug\net8.0\labExam.dll
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\obj\Debug\net8.0\refint\labExam.dll
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\obj\Debug\net8.0\labExam.pdb
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\obj\Debug\net8.0\labExam.genruntimeconfig.cache
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\labExam\obj\Debug\net8.0\ref\labExam.dll
